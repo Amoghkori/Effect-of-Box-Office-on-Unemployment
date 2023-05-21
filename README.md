@@ -1,5 +1,3 @@
-# Effect-of-Box-Office-on-Unemployment
-
 # Data Preparation and Cleaning for Movie Ratings and US Unemployment Rate Datasets
 
 This project report discusses the data preparation process for two datasets: movie ratings and reviews, and the US unemployment rate. The data underwent an 8-step data wrangling process to create an Analytic Base Table (ABT) structure. The process included steps such as discovery, structuring, cleaning, validating, enrichment, aggregation, integration, and publishing.
